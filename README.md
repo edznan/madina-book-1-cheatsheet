@@ -1,110 +1,129 @@
+
 # MADINA BOOK 1 - GRAMMAR COURSE NOTES (Arabic + English)
 
 ---
 
-### 1. أَقْسَامُ الكَلامِ – Types of Words
-| Arabic | English  | Role |
-|--------|----------|------|
-| **اِسْم** | noun     | person, object, place: subject, object |
-| **فِعْل** | verb     | action: predicate |
-| **حَرْف** | particle | connectors like prepositions, conjunctions |
+<div dir="rtl">
+
+### 1. أقسام الكلام – Types of Words
+
+<table>
+  <tr><th>العربية</th><th>English</th><th>Role</th></tr>
+  <tr><td>اسم</td><td>noun</td><td>subject, object, etc.</td></tr>
+  <tr><td>فعل</td><td>verb</td><td>predicate/action</td></tr>
+  <tr><td>حرف</td><td>particle</td><td>preposition, conjunction</td></tr>
+</table>
+
+</div>
 
 ---
 
-### 2. أَنْوَاعُ الفِعْل – Types of Verbs
-| Arabic         | English         | Meaning |
-|----------------|------------------|---------|
-| **فِعْلٌ مَاضٍ**   | past tense       | e.g. *كتبَ* – he wrote |
-| **فِعْلٌ مُضَارِعٌ** | present tense    | e.g. *يكتبُ* – he writes |
-| **فِعْلُ أَمْرٍ**   | imperative        | e.g. *اُكتبْ* – write! |
+### 2. أنواع الفعل – Types of Verbs
+
+<table>
+  <tr><th>Arabic</th><th>English</th><th>Meaning</th></tr>
+  <tr><td>فعل ماضٍ</td><td>past tense</td><td>كتبَ – he wrote</td></tr>
+  <tr><td>فعل مضارع</td><td>present tense</td><td>يكتبُ – he writes</td></tr>
+  <tr><td>فعل أمر</td><td>imperative</td><td>اُكتبْ – write!</td></tr>
+</table>
 
 ---
 
-### 3. الإِشَارَة – Demonstrative Pronouns (Ism Isharah)
-| Arabic   | Meaning         | Example         |
-|----------|------------------|-----------------|
-| **هَذَا** | this (masculine) | هذا كتابٌ – this is a book |
-| **هَذِهِ** | this (feminine)  | هذه سيارةٌ – this is a car |
-| **ذَلِكَ** | that (masculine) | ذلك بيتٌ – that is a house |
-| **تِلْكَ** | that (feminine)  | تلك شجرةٌ – that is a tree |
+### 3. Demonstrative Pronouns (Ism Isharah)
+
+<div dir="rtl">
+<table>
+  <tr><th>Arabic</th><th>Meaning</th><th>Example</th></tr>
+  <tr><td>هَذَا</td><td>this (m)</td><td>هذا كتابٌ – this is a book</td></tr>
+  <tr><td>هَذِهِ</td><td>this (f)</td><td>هذه سيارةٌ – this is a car</td></tr>
+  <tr><td>ذَلِكَ</td><td>that (m)</td><td>ذلك بيتٌ – that is a house</td></tr>
+  <tr><td>تِلْكَ</td><td>that (f)</td><td>تلك شجرةٌ – that is a tree</td></tr>
+</table>
+</div>
 
 ---
 
-### 4. السُّؤَال – Question Words
-| Arabic         | Meaning      |
-|----------------|--------------|
-| **مَا هَذَا؟**    | What is this? |
-| **مَنْ هَذَا؟**   | Who is this?  |
-| **أَيْنَ؟**       | Where?        |
-| **مَتَى؟**        | When?         |
-| **كَيْفَ؟**       | How?          |
+### 4. Question Words
+
+<div dir="rtl">
+<table>
+  <tr><th>Arabic</th><th>Meaning</th></tr>
+  <tr><td>ما هذا؟</td><td>What is this?</td></tr>
+  <tr><td>من هذا؟</td><td>Who is this?</td></tr>
+  <tr><td>أين؟</td><td>Where?</td></tr>
+  <tr><td>متى؟</td><td>When?</td></tr>
+  <tr><td>كيف؟</td><td>How?</td></tr>
+</table>
+</div>
 
 ---
 
-### 5. الشَّدَّة – Shaddah (Gemination)
-Shaddah ( ّ ) indicates a doubled consonant.  
-Example: **مُدَرِّس** = *mudarris* (with doubled R)
+### 5. Shaddah (Gemination)
+
+Shaddah ( ّ ) = double consonant.  
+Example: مُدَرِّس = *mudarris*
 
 ---
 
-### 6. المُفْرَد وَالجَمْع – Singular and Plural
-| Arabic | Number   | Meaning  |
-|--------|----------|----------|
-| كتابٌ  | singular | book     |
-| كُتُبٌ  | plural   | books    |
-| طالبٌ  | singular | student  |
-| طُلَّابٌ| plural   | students |
+### 6. Singular and Plural Examples
+
+<table>
+  <tr><th>Arabic</th><th>Number</th><th>Meaning</th></tr>
+  <tr><td>كتابٌ</td><td>Singular</td><td>Book</td></tr>
+  <tr><td>كُتُبٌ</td><td>Plural</td><td>Books</td></tr>
+  <tr><td>طالبٌ</td><td>Singular</td><td>Student</td></tr>
+  <tr><td>طُلَّابٌ</td><td>Plural</td><td>Students</td></tr>
+</table>
 
 ---
 
-### 7. حُرُوفُ القَمَر وَالشَّمْس – Moon and Sun Letters
-The definite article **ال** is pronounced differently depending on the following letter:
-- **Sun letters (shamsiyya)**: *L* is merged and next letter is doubled (e.g. *الشَّمْس* → *ash-shams*)
-- **Moon letters (qamariyya)**: *L* is pronounced clearly (e.g. *القمر* → *al-qamar*)
+### 7. Moon and Sun Letters
 
-| Moon Letters (Qamariyya) | Sun Letters (Shamsiyya) |
-|--------------------------|--------------------------|
-| أ، ب، ج، ح، خ، ع...         | ت، ث، د، ذ، ر، ز، س...        |
+- Sun Letters: ل is merged and next letter doubled (e.g. الشمس → ash-shams)  
+- Moon Letters: ل is pronounced (e.g. القمر → al-qamar)
 
 ---
 
-### 8. الجُمْلَة الاسْمِيَّة – Nominal Sentence
+### 8. Nominal Sentence
+
 | Role     | Harakah | Function  |
 |----------|---------|-----------|
-| **مُبْتَدَأ** | ُ       | subject   |
-| **خَبَر**     | ُ       | predicate |
-
-🔹 *If the subject (mubtada') is indefinite (nakirah), the sentence requires a context like a question or negation.*
+| مُبْتَدَأ | ُ       | subject   |
+| خَبَر     | ُ       | predicate |
 
 ---
 
-### 9. الجُمْلَة الفِعْلِيَّة – Verbal Sentence
-- **فِعْل (verb)** – the action
-- **فَاعِل (subject)** – the doer
-- **مَفْعُول بِهِ (object)** – the receiver (if present)
+### 9. Verbal Sentence
 
-🔹 *Example*: **كتبَ الطالبُ الدرسَ** – The student wrote the lesson.
+- فعل = verb  
+- فاعل = subject  
+- مفعول به = object
 
----
-
-### 10. الإِعْرَاب – Word Cases
-| Arabic   | Harakah | English Equivalent     |
-|----------|---------|-------------------------|
-| مَرْفُوع   | ُ       | nominative (subject)    |
-| مَنْصُوب   | َ       | accusative (object)     |
-| مَجْرُور   | ِ       | genitive (after a preposition) |
+Example: **كتبَ الطالبُ الدرسَ** – The student wrote the lesson.
 
 ---
 
-### 11. الإِضَافَة – Possessive Construction (Idafa)
-- **مُضَاف**: possessed item (no definite article, no tanwīn)
-- **مُضَافٌ إِلَيْهِ**: possessor (always in genitive)
+### 10. Word Cases (الإِعْرَاب)
 
-🔹 *Example*: **بابُ المسجدِ** – the door of the mosque
+| Arabic   | Harakah | English Equivalent |
+|----------|---------|--------------------|
+| مرفوع    | ُ       | nominative         |
+| منصوب    | َ       | accusative         |
+| مجرور    | ِ       | genitive           |
 
 ---
 
-### 12. حُرُوفُ الجَرّ – Prepositions
+### 11. Possessive Structure (Idafa)
+
+- مُضاف = possessed item (no definite article)
+- مُضاف إليه = possessor (always genitive)
+
+Example: **بابُ المسجدِ** – door of the mosque
+
+---
+
+### 12. Prepositions
+
 | Arabic | Meaning |
 |--------|---------|
 | في      | in      |
@@ -113,36 +132,23 @@ The definite article **ال** is pronounced differently depending on the followi
 | إلى     | to      |
 | مع      | with    |
 
-🔹 *They always make the following noun genitive (مجرور)*
+---
+
+### 13. Pronouns
+
+**Attached:** كتابي = my book, درسُهُ = his lesson  
+**Detached:** أنا = I, نحن = we, أنتَ = you (m), هو = he, هي = she
 
 ---
 
-### 13. ضَمَائِر – Pronouns
-#### ➤ Attached Pronouns
-- **كتابي** – my book
-- **درسُهُ** – his lesson
+### 14. Verb Conjugation
 
-#### ➤ Detached Pronouns
-| Arabic | Meaning |
-|--------|---------|
-| أَنَا   | I       |
-| نَحْنُ  | we      |
-| أَنْتَ  | you (m) |
-| أَنْتِ  | you (f) |
-| هُوَ    | he      |
-| هِيَ    | she    
----
-
-### 14. Verbs and Pronouns (Conjugation)
-| Person | Singular       | Plural          |
-|--------|----------------|------------------|
-| I      | **أنا كتبتُ**     | **نحن كتبنا**       |
-| You (m)| **أنتَ كتبتَ**    | **أنتم كتبتم**      |
-| You (f)| **أنتِ كتبتِ**    | **أنتن كتبتن**      |
-| He     | **هو كتبَ**      | **هم كتبوا**        |
-| She    | **هي كتبتْ**     | **هن كتبن**         |
+| Person | Singular         | Plural         |
+|--------|------------------|----------------|
+| I      | أنا كتبتُ         | نحن كتبنا       |
+| You m  | أنتَ كتبتَ        | أنتم كتبتم      |
+| You f  | أنتِ كتبتِ        | أنتن كتبتن      |
+| He     | هو كتبَ          | هم كتبوا        |
+| She    | هي كتبتْ         | هن كتبن         |
 
 ---
-
-These are the foundational rules of Madina Book 1.
-Would you like the next section to cover particles like **إِنَّ**, **لَيْسَ**, **لَنْ**, **لَم** along with rules for extended sentences and negation?
